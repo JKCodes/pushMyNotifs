@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>450836076324-4b9g6vu0khavc4fbrk4pbbei1ecd76ce.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.450836076324-4b9g6vu0khavc4fbrk4pbbei1ecd76ce</string>
+	<key>GCM_SENDER_ID</key>
+	<string>450836076324</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.npfjk.pushMyNotif</string>
+	<key>PROJECT_ID</key>
+	<string>pushmynotif-47a14</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pushmynotif-47a14.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:450836076324:ios:3dcf167d4cf27b28</string>
+	<key>DATABASE_URL</key>
+	<string>https://pushmynotif-47a14.firebaseio.com</string>
+</dict>
+</plist>
